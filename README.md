@@ -28,16 +28,23 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/luongtrac.ducanh/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="[https://www.linkedin.com/in/luongtracducanh/](https://www.instagram.com/luongtracducanh/)">
+  <a href="https://www.instagram.com/luongtracducanh/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:luongtrac.ducanh@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
 
 ### Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luongtracducanh&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luongtracducanh&theme=vision-friendly-dark)](https://git.io/streak-stats)
+-->
+
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=luongtracducanh&count_private=true&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luongtracducanh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ### Open Source Projects
-[![Console-ATM](https://github-readme-stats.vercel.app/api/pin/?username=luongtracducanh&repo=Console-ATM&theme=midnight-purple)](https://github.com/luongtracducanh/Console-ATM)
+[![Console-ATM](https://github-readme-stats.vercel.app/api/pin/?username=luongtracducanh&repo=Console-ATM&theme=vision-friendly-dark)](https://github.com/luongtracducanh/Console-ATM)
