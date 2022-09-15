@@ -1,6 +1,8 @@
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
+-->
 
 ### Hi there 👋
 
@@ -48,9 +50,9 @@ Here are some ideas to get you started:
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luongtracducanh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 -----
 
 ### Open-source Projects
 [![Console-ATM](https://github-readme-stats.vercel.app/api/pin/?username=luongtracducanh&repo=Console-ATM&theme=vision-friendly-dark)](https://github.com/luongtracducanh/Console-ATM)
+-->
