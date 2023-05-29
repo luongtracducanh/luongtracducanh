@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luongtracducanh&theme=vision-friendly-dark)](https://git.io/streak-stats)
 -->
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=luongtracducanh&count_private=true&theme=vision-friendly-dark&show_icons=true)]
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=luongtracducanh&count_private=true&theme=vision-friendly-dark&show_icons=true)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luongtracducanh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
