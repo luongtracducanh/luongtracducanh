@@ -21,20 +21,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- My name is Luong Trac Duc Anh, I am currently studying at Swinburne University of Technology.
+- My name is Luong Trac Duc Anh.
+- I currently work as an OutSystems Developer at OCG Technology JSC and study ICT at Swinburne University of Technology.
 - How to reach me:
 <div id="badges">
-  <a href="https://www.linkedin.com/in/luongtracducanh/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="mailto:luongtrac.ducanh@gmail.com">
     <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
-  <a href="https://www.facebook.com/luongtrac.ducanh/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.instagram.com/luongtracducanh/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://www.linkedin.com/in/luongtracducanh/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
