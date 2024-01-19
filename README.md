@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 - My name is Luong Trac Duc Anh.
-- I currently work as an OutSystems Developer at OCG Technology JSC and study ICT at Swinburne University of Technology.
+- I currently work as an OutSystems Developer at OCG Technology and study ICT at Swinburne University of Technology.
 - How to reach me:
 <div id="badges">
   <a href="mailto:luongtrac.ducanh@gmail.com">
