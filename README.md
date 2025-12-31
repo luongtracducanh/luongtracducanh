@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 -->
 
 - My name is Luong Trac Duc Anh.
-- I am an OutSystems Developer at NTT e-MOI JSC.
+- I am an OutSystems Developer at [NTT e-MOI](https://ntte-moi.com/en/).
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/luongtracducanh/), [Gmail](mailto:luongtrac.ducanh@gmail.com).
